@@ -1,6 +1,6 @@
-# Bash Scripts Repository 📜
+# Spellbook of Script 📜
 
-Welcome to the Bash Scripts Repository! This repository is a collection of Bash scripts designed to automate various tasks and operations. Whether you're looking to streamline your workflow or perform repetitive tasks more efficiently, you'll find useful scripts here.
+Spellbook of Script is a collection of bash scripts designed to automate everyday work. Whether you're looking to streamline your workflow or perform repetitive tasks more efficiently, you'll find useful scripts here.
 
 ## What's Inside? 🗂️
 
